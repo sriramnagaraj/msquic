@@ -5,6 +5,7 @@
 
 #>
 
+#test
 param (
     [Parameter(Mandatory = $false)]
     [ValidateSet("Debug", "Release")]
