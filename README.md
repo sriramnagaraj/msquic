@@ -15,7 +15,7 @@
 MsQuic is a Microsoft implementation of the [IETF QUIC](https://datatracker.ietf.org/wg/quic/about/)
 protocol. It is cross-platform, written in C and designed to be a general purpose QUIC library. MsQuic also has C++ API wrapper classes and exposes interop layers for both Rust and C#.
 
-## Protocol Features
+## Protocol Features 
 
 [![](https://img.shields.io/static/v1?label=RFC&message=9000&color=brightgreen)](https://tools.ietf.org/html/rfc9000)
 [![](https://img.shields.io/static/v1?label=RFC&message=9001&color=brightgreen)](https://tools.ietf.org/html/rfc9001)
@@ -40,7 +40,7 @@ QUIC has many benefits when compared to existing "TLS over TCP" scenarios:
   * Improved congestion control and loss recovery.
   * Survives a change in the clients IP address or port.
   * Stateless load balancing.
-  * Easily extendable for new features and extensions.
+  * Easily extendable for new features and extensions. 
 
 ## Library Features
 
